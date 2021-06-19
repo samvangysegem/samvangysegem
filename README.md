@@ -17,11 +17,16 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![Matlab](https://img.shields.io/badge/-Matlab-007ACC?style=flat&logo=matlab&logoColor=white)&nbsp;
 ![Simulink](https://img.shields.io/badge/-Simulink-F05032?style=flat&logo=simulink&logoColor=white)&nbsp;
+![Maple](https://img.shields.io/badge/-Maple-3A6693?style=flat&logo=maple&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino/Teensy-00979D?style=flat&logo=arduino&logoColor=white)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)&nbsp;
+![Solidworks](https://img.shields.io/badge/-Solidworks-BD2C22?style=flat&logo=solidworks&logoColor=white)&nbsp;
+![KiCad](https://img.shields.io/badge/-KiCad-B68E29?style=flat&logo=kicad&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 
