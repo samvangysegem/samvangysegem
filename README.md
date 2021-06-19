@@ -33,7 +33,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="www.linkedin.com/in/samvangysegem"><img src="https://img.shields.io/badge/-Sam%20Van%20Gysegem-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sam-van-gysegem-849675100/"><img src="https://img.shields.io/badge/-Sam%20Van%20Gysegem-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100006229087640"><img src="https://img.shields.io/badge/-Sam%20Van%20Gysegem-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
