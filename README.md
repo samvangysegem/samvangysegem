@@ -2,11 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a graduating engineer from Ghent University :belgium: majored in Control Engineering and Automation.\
+🎓 &nbsp;I'm a young graduate engineer from Ghent University :belgium: majored in Control Engineering and Automation.\
 :mag: &nbsp;I'm interested in a broad range of engineering fields, ranging from Control Systems to Electronics, Embedded Programming, Full Stack Development and Machine Learning.\
 :camera: &nbsp;Music, Photography, Reading and Sports help me take my mind of things.\
-💬 &nbsp;Feel free to reach out to me for some interesting project or fun discussion.\
-✉️ &nbsp;You can send me an email at sam.vgysegem@gmail.com! I'll respond as soon as I can.
  <!--- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!) --->
 
 ### 🛠 &nbsp;Tech Stack
