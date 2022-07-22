@@ -28,11 +28,6 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 
-### :books: Next
-
-![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
